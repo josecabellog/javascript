@@ -9,4 +9,10 @@ let age = 30
 let isStundent = false
 let height = 1.75
 
-// Mostrar va
+// Mostrar variables
+console.log(name)
+console.log(lastName)
+console.log(genre)
+console.log(age)
+console.log(isStundent)
+console.log(height)
